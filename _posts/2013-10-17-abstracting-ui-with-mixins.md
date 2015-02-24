@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/WF0cbWhPJwM/0.jpg 
 title: "Sass Bites Episode #11 - Abstracting UI With Mixins"
 ---
 

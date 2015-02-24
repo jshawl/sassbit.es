@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/6CJVP8SVIEg/0.jpg 
 title: "Sass Bites #52 - The Road to Sass Conf - Smith Schwartz"
 ---
 

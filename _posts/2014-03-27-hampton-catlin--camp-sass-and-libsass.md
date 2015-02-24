@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/sZnnbjE_GeE/0.jpg 
 title: "Sass Bites #31 - Hampton Catlin, Camp Sass and Libsass"
 ---
 

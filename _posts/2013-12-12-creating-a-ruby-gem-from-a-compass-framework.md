@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/Pi3tVzGSxvs/0.jpg 
 title: "Sass Bites #18 - Creating a Ruby Gem from a Compass Framework"
 ---
 

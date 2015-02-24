@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/QSXyeFA_LYk/0.jpg 
 title: "Sass Bites #55 - Intro to Grunt"
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/ns8pxsv6G5I/0.jpg 
 title: "Sass Bites Episode #8 - The @for Directive"
 ---
 

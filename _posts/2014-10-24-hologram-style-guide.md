@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/tsL7EeRcZRE/0.jpg 
 title: "Sass Bites #58 - Hologram Style Guide"
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/O8APW7ogrIw/0.jpg 
 title: "Sass Bites #48 - Susy Grid Grab Bag"
 ---
 

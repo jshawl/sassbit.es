@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/I_M--ZENKBc/0.jpg 
 title: "Sass Bites #44 - Sass 3.4 Preview"
 ---
 

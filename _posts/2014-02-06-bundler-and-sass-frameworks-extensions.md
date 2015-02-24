@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/Ra_r_eXtm2w/0.jpg 
 title: "Sass Bites #24 - Bundler and Sass Frameworks/Extensions"
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/Q5nZAwvSIOc/0.jpg 
 title: "Sass Bites #59 - Using Layouts"
 ---
 

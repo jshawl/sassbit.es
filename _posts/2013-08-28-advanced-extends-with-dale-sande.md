@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/vvAKLBqNroU/0.jpg 
 title: "Sass Bites Episode #4 - Advanced Extends with Dale Sande"
 ---
 

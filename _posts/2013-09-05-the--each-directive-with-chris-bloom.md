@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/dlmsjTi-HwI/0.jpg 
 title: "Sass Bites Episode #6 - The @each Directive with Chris Bloom"
 ---
 
