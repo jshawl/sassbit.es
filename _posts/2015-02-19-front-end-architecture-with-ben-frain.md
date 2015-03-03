@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/WUEObwtgvyI/0.jpg 
 title: "Sass Bites #69 - Front-end Architecture with Ben Frain"
 ---
 

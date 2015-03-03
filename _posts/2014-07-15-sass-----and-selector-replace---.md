@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/o4ok4gsiQSw/0.jpg 
 title: "Sass Bites #45 - Sass 3.4 and selector-replace( )"
 ---
 

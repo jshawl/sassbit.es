@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/Ls7VgTCTRaU/0.jpg 
 title: "Sass Bites #51 - The Road to Sass Conf with Jina and Elyse"
 ---
 

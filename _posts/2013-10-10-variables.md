@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/U9hSPSNu73Q/0.jpg 
 title: "Sass Bites Episode #10 - Variables"
 ---
 

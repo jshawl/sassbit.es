@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/iLcp5q59cYw/0.jpg 
 title: "Sass Bites #12 - Introduction to Compass"
 ---
 

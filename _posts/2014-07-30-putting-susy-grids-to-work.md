@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/rBKfH8UTn7w/0.jpg 
 title: "Sass Bites #47 - Putting Susy Grids to Work"
 ---
 
