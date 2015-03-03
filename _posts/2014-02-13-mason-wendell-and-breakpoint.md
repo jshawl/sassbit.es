@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/lR9lK_K8MDE/0.jpg 
 title: "Sass Bites #25 - Mason Wendell and Breakpoint"
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/wVu_lcVoxdA/0.jpg 
 title: "Sass Bites #39 - Wrangling your Color Variables"
 ---
 

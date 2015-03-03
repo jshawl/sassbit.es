@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/CB6F_-DlVHY/0.jpg 
 title: "Sass Bites #54 - The Road to Sass Conf - with Kevin and Shay"
 ---
 

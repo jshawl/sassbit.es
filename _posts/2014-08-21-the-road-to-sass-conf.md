@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/Ji4Rc9Wn0BA/0.jpg 
 title: "Sass Bites #49 - The Road to Sass Conf - Mason Wendell"
 ---
 

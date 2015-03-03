@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/ONZ1NSfKGJU/0.jpg 
 title: "Sass Bites #23 - Sass 3.3 Grab Bag"
 ---
 

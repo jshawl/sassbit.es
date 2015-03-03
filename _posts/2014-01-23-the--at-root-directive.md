@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/TyQQy856d_I/0.jpg 
 title: "Sass Bites #22 - The @at-root directive"
 ---
 

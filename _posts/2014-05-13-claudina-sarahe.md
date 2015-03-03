@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/BtWaFDpyDCI/0.jpg 
 title: "Sass Bites #37 - Claudina Sarahe"
 ---
 

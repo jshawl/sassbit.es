@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/DAN_Q0Iy6c0/0.jpg 
 title: "Sass Bites #64 - Introduction to Front-end Architecture"
 ---
 
