@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/qFaVQqQmss4/0.jpg 
 title: "Sass Bites #60 - Deeper into Hologram"
 ---
 

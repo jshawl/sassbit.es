@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/8bW00z9zCc8/0.jpg 
 title: "Sass Bites #67 - Front-end Architecture with Jonathan Snook"
 ---
 

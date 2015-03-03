@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/Idg_XzxY2Ow/0.jpg 
 title: "Sass Bites #15 - Compass and the Config.rb file"
 ---
 

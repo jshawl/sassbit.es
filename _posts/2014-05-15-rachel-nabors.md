@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/tHVt9-ktpRw/0.jpg 
 title: "Sass Bites #38 - Rachel Nabors"
 ---
 

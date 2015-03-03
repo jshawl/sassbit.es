@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/lBs6BZUHINU/0.jpg 
 title: "Sass Bites #65 - Front-end Architecture with Brad Frost"
 ---
 

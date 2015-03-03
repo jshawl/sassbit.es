@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/n-zMNmPU6t8/0.jpg 
 title: "Sass Bites Episode #5 - The @if Directive"
 ---
 

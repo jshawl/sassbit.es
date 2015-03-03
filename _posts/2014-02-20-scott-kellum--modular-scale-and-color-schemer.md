@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/mNRSgv9iXMI/0.jpg 
 title: "Sass Bites #26 - Scott Kellum, Modular Scale and Color Schemer"
 ---
 

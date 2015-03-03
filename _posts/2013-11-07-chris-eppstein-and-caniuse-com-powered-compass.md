@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/7FHNgWX3RNo/0.jpg 
 title: "Sass Bites #14 - Chris Eppstein and caniuse.com powered Compass"
 ---
 

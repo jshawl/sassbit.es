@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/VTVzZmJruXM/0.jpg 
 title: "Sass Bites Episode #7 - The @while Directive"
 ---
 

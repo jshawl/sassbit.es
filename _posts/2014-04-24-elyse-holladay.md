@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/9Yd_L2ODfY0/0.jpg 
 title: "Sass Bites #35 - Elyse Holladay"
 ---
 

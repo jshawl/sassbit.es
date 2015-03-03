@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/trbMotBqam0/0.jpg 
 title: "Sass Bites #53 - The Road to Sass Conf - with Anthony DiSpezio"
 ---
 

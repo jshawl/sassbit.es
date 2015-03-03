@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/m7k-vBzebPg/0.jpg 
 title: "Sass Bites #29 - Susy Grids 2.0 with Eric M. Suzanne"
 ---
 

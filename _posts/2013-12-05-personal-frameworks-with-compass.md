@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/eBT6gwuAnSc/0.jpg 
 title: "Sass Bites #17 - Personal Frameworks with Compass"
 ---
 

@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/xTN6KnSdVvE/0.jpg 
 title: "Sass Bites #56 - Grunt Continues - Connect and Includes"
 ---
 

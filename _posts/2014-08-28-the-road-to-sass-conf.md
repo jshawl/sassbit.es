@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/qZZiuuY5n80/0.jpg 
 title: "Sass Bites #50 - The Road to Sass Conf - Adam Onishi and Adam Detrick"
 ---
 

@@ -1,6 +1,5 @@
 ---
 layout: post
-thumbnail: http://i.ytimg.com/vi/00U-n127amM/0.jpg 
 title: "Sass Bites #62 - Visual Regression Testing with PhantomCSS"
 ---
 
