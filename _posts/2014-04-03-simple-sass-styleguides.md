@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/2DzXSci0JYs/0.jpg 
 title: "Sass Bites #32 - Simple Sass Styleguides"
 ---
 

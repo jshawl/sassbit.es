@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/H6Y9r49InXo/0.jpg 
 title: "Sass Bites #42 - Hugo Giraudel"
 ---
 

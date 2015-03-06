@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/L7LItbRpfZc/0.jpg 
 title: "Sass Bites #40 - Front-end Diffing Tools"
 ---
 

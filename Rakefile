@@ -39,16 +39,15 @@ task :default do
       @date = p['published'].split('T')[0]
       @filename = '_posts/' +  @date + '-' + @formatted_title + '.md'
       @embed_url = p['id'].split('/')[-1]
-      p @title
-      unless File.exists? @filename
-	f = File.new( @filename, "w+")
-	f.write("---\n")
-	f.write("layout: post\n")
-	f.write("title: \"#{@title}\"\n")
-	f.write("---\n\n")
-	f.write("<iframe width='560' height='315' src='//www.youtube.com/embed/#{@embed_url}' frameborder='0' allowfullscreen></iframe>")
-	f.close
-      end
+      @thumb = p['group']['thumbnail'][0]['url']
+      f = File.new( @filename, "w+")
+      f.write("---\n")
+      f.write("layout: post\n")
+      f.write("thumbnail: #{@thumb} \n")
+      f.write("title: \"#{@title}\"\n")
+      f.write("---\n\n")
+      f.write("<iframe width='560' height='315' src='//www.youtube.com/embed/#{@embed_url}' frameborder='0' allowfullscreen></iframe>")
+      f.close
     end
   end
 end

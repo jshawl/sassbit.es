@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/FOAqDnC8eJg/0.jpg 
 title: "Sass Bites #41 - Roy Tomeij"
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/eKtD5ZrxJSA/0.jpg 
 title: "Sass Bites #20 - Sam Richard and Sass Maps"
 ---
 

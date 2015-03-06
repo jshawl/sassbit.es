@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/tFg5K-qqkYI/0.jpg 
 title: "Sass Bites #34 - Jess Eldredge"
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail: http://i.ytimg.com/vi/PDbVpyS6jF0/0.jpg 
 title: "Sass Bites #27 - Sam Richard, Singularity Grid System"
 ---
 
